@@ -1,4 +1,4 @@
-# Organizacja i Architektura Komputerów. Projekt
+Organizacja i Architektura Komputerów. Projekt
 ---------------------
 Temat: Rozkład liczby na czynniki pierwsze algorytmem Rho Pollarda
 ===============
