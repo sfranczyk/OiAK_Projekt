@@ -1,4 +1,4 @@
-# Kurs Projekt. Organizacja i Architektura Komputerów
+# Organizacja i Architektura Komputerów. Projekt
 ---------------------
 Temat: Rozkład liczby na czynniki pierwsze algorytmem Rho Pollarda
 ===============
